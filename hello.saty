@@ -1,0 +1,13 @@
+@require: stdja
+
+document(|
+  title = {Hello \SATySFi;};
+  author = {uint256_t};
+  show-title = true;
+  show-toc = false;
+|) '<
+  +p{
+    Hello \SATySFi;!
+    はじめまして！
+  }
+>
