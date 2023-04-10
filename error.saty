@@ -1,0 +1,10 @@
+@require: stdja
+
+document(| title = {}; author = {}; show-title = true; show-toc = false |) '<
+
+  +command-not-defined{
+    Hello, World!
+  }
+
+>
+
